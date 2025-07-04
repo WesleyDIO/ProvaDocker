@@ -1,3 +1,4 @@
+# Integrantes: Wesley Diorrani Ferreira, Jonatas Jackson Gonçalves, Gabriel Koehler da Silva e Kauê Keiser Lindner
 services:
   mysql:
     image: mysql:5.7
